@@ -6,7 +6,7 @@ pipeline{
         branch'test branch'
       }
       steps{
-        echo'git checkout done'
+        echo'git checkout completed'
       }
     }
       stage('sonar qube'){
